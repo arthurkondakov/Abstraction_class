@@ -22,6 +22,7 @@ def main():
         else:
             print(quast.build_negative_feedback())
 
+
     count_tru = 0
     count_ball = 0
 
